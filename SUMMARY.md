@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [PHP](PHP/README.md)
-* [MySQL](MySQL/README.md)
+* [PHP](php/README.md)
+* [MySQL](mysql/README.md)
 * [Nginx](nginx/README.md)
 * [Redis](redis/README.md)
 * [Linux](linux/README.md)
